@@ -1,1 +1,69 @@
+[
+    {
+      "name_video": "discofever",
+      "name_display": "Disco Fever",
+      "type": "dance_shape_epic",
+      "link_online": "https://dl.dropboxusercontent.com/s/mnaxr0v1i68cf7y/1.mp4"
+    }, 
+    {
+      "name_video": "bestmates",
+      "name_display": "Best Mates",
+      "type": "dance_shape_blue",
+      "link_online": "https://dl.dropboxusercontent.com/s/hruwyehzibo2t8b/32.mp4"
+    }, 
+    {
+      "name_video": "flapper",
+      "name_display": "Flapper",
+      "type": "dance_shape_blue",
+      "link_online": "https://dl.dropboxusercontent.com/s/ioohk47i3a6qkb3/33.mp4"
+    }, 
+    {
+      "name_video": "hootenany",
+      "name_display": "Hootenanny",
+      "type": "dance_shape_blue",
+      "link_online": "https://dl.dropboxusercontent.com/s/5ohxlokpy7rrtjy/34.mp4"
+    }, 
+    {
+      "name_video": "reanimated",
+      "name_display": "Reanimated",
+      "type": "dance_shape_epic",
+      "link_online": "https://dl.dropboxusercontent.com/s/9prfswfhtlquvdf/35.mp4"
+    }, 
+    {
+      "name_video": "rockout",
+      "name_display": "Rock Out",
+      "type": "dance_shape_epic",
+      "link_online": "https://dl.dropboxusercontent.com/s/zfmn95boxpb46e2/36.mp4"
+    }, 
+    {
+      "name_video": "takethel",
+      "name_display": "Take The L",
+      "type": "dance_shape_blue",
+      "link_online": "https://dl.dropboxusercontent.com/s/jadp3ysqy2zoebh/37.mp4"
+    }, 
+    {
+      "name_video": "therobot",
+      "name_display": "The Robot",
+      "type": "dance_shape_epic",
+      "link_online": "https://dl.dropboxusercontent.com/s/eujh3bv42yux6kh/38.mp4"
+    }, 
+    {
+      "name_video": "wiggle",
+      "name_display": "Wiggle",
+      "type": "dance_shape_blue",
+      "link_online": "https://dl.dropboxusercontent.com/s/c6xodrj64o39zc2/39.mp4"
+    }, 
+    {
+      "name_video": "stepitup",
+      "name_display": "Step It Up",
+      "type": "dance_shape_blue",
+      "link_online": "https://dl.dropboxusercontent.com/s/cfv6dtgc94iyka5/340.mp4"
+    }, 
+    {
+      "name_video": "squatkick",
+      "name_display": "Squat Kick",
+      "type": "dance_shape_blue",
+      "link_online": "https://dl.dropboxusercontent.com/s/dxvhkh4hu1lqctf/341.mp4"
+    }
+ ]
 
