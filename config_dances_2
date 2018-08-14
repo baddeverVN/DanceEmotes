@@ -1,9 +1,38 @@
 [
     {
-      "idDance": "breakdown",
-      "idSound": "Breakdown",
-      "idType": "Breakdown",
-      "title": "https://raw.githubusercontent.com/baddeverVN/VidOne/master/image/vacation.jpg",
-      "link": "https://raw.githubusercontent.com/baddeverVN/VidOne/master/image/vacation.jpg"
+      "name_video": "breakin",
+      "name_display": "Breakin",
+      "type": "dance_shape_epic",
+      "link_online": "https://dl.dropboxusercontent.com/s/gujtifk1eyztwxz/21.mp4"
+    }, 
+    {
+      "name_video": "electroshuffle",
+      "name_display": "Electro Shuffle",
+      "type": "dance_shape_epic",
+      "link_online": "https://dl.dropboxusercontent.com/s/6elnnvsv8ng6jz6/22.mp4"
+    }, 
+    {
+      "name_video": "floss",
+      "name_display": "Floss",
+      "type": "dance_shape_blue",
+      "link_online": "https://dl.dropboxusercontent.com/s/wge0fd4lh595que/23.mp4"
+    }, 
+    {
+      "name_video": "fresh",
+      "name_display": "Fresh",
+      "type": "dance_shape_epic",
+      "link_online": "https://dl.dropboxusercontent.com/s/x4wadiaqudea78g/24.mp4"
+    }, 
+    {
+      "name_video": "ridethepony",
+      "name_display": "Ride The Pony",
+      "type": "dance_shape_blue",
+      "link_online": "https://dl.dropboxusercontent.com/s/iudsy2u106jsktk/25.mp4"
+    }, 
+    {
+      "name_video": "theworm",
+      "name_display": "The Worm",
+      "type": "dance_shape_blue",
+      "link_online": "https://dl.dropboxusercontent.com/s/2eph5l0djr0nzid/26.mp4"
     }
  ]
