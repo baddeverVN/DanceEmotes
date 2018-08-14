@@ -1,9 +1,9 @@
 [
     {
-      "idDance": "breakdown",
-      "idSound": "Breakdown",
-      "idType": "Breakdown",
-      "title": "https://raw.githubusercontent.com/baddeverVN/VidOne/master/image/vacation.jpg",
-      "link": "https://raw.githubusercontent.com/baddeverVN/VidOne/master/image/vacation.jpg"
+      "name_video": "breakdown",
+      "name_display": "Breakdown",
+      "type": "Breakdown",
+      "link_online": "https://raw.githubusercontent.com/baddeverVN/VidOne/master/image/vacation.jpg",
+      "link_download": "https://raw.githubusercontent.com/baddeverVN/VidOne/master/image/vacation.jpg"
     }
  ]
