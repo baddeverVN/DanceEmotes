@@ -1,11 +1,20 @@
 [
     {
-      "idDance": "Vacation",
+      "idDance": "breakdown",
+      "idType": "Breakdown",
+      "season": "1",
+      "idSound": "https://raw.githubusercontent.com/baddeverVN/VidOne/master/image/vacation.jpg",
+      "name": "https://raw.githubusercontent.com/baddeverVN/VidOne/master/image/vacation.jpg",
+      "title": "https://raw.githubusercontent.com/baddeverVN/VidOne/master/image/vacation.jpg",
+      "link": "https://raw.githubusercontent.com/baddeverVN/VidOne/master/image/vacation.jpg"
+    },
+    {
+     "idDance": "Vacation",
       "idType": "vacation.zip",
       "season": "https://raw.githubusercontent.com/baddeverVN/VidOne/master/image/vacation.jpg",
       "idSound": "https://raw.githubusercontent.com/baddeverVN/VidOne/master/image/vacation.jpg",
       "name": "https://raw.githubusercontent.com/baddeverVN/VidOne/master/image/vacation.jpg",
       "title": "https://raw.githubusercontent.com/baddeverVN/VidOne/master/image/vacation.jpg",
       "link": "https://raw.githubusercontent.com/baddeverVN/VidOne/master/image/vacation.jpg"
-    } 
+    }
  ]
