@@ -1,1 +1,44 @@
-
+[
+    {
+      "name_video": "fingerwag",
+      "name_display": "Finger Wag",
+      "type": "dance_shape_uncommon",
+      "link_online": "https://dl.dropboxusercontent.com/s/gamtqnww5x382wa/551.mp4"
+    }, 
+    {
+      "name_video": "onthehook",
+      "name_display": "On The Hook",
+      "type": "dance_shape_blue",
+      "link_online": "https://dl.dropboxusercontent.com/s/q7nmwbf475qgvnd/552.mp4"
+    }, 
+    {
+      "name_video": "flippinincredible",
+      "name_display": "Flippin' Incredible",
+      "type": "dance_shape_blue",
+      "link_online": "https://dl.dropboxusercontent.com/s/ub4iaepl1gu0q13/553.mp4"
+    }, 
+    {
+      "name_video": "infinitedab",
+      "name_display": "Infinite Dab",
+      "type": "dance_shape_blue",
+      "link_online": "https://dl.dropboxusercontent.com/s/35jwdean3vbq6hx/554.mp4"
+    }, 
+    {
+      "name_video": "calculated",
+      "name_display": "Calculated",
+      "type": "dance_shape_blue",
+      "link_online": "https://dl.dropboxusercontent.com/s/0q5hhs2yneiiy44/555.mp4"
+    }, 
+    {
+      "name_video": "youreawesome",
+      "name_display": "You're Awesome",
+      "type": "dance_shape_blue",
+      "link_online": "https://dl.dropboxusercontent.com/s/ptm5ebff79d5nej/556.mp4"
+    }, 
+    {
+      "name_video": "gentlemansdab",
+      "name_display": "Gentleman's Dab",
+      "type": "dance_shape_uncommon",
+      "link_online": "https://dl.dropboxusercontent.com/s/dx46y4lrsocah3h/557.mp4"
+    }
+ ]
