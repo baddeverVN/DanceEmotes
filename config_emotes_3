@@ -1,1 +1,62 @@
-
+[
+    {
+      "name_video": "jubilation",
+      "name_display": "Jubilation",
+      "type": "dance_shape_uncommon",
+      "link_online": "https://dl.dropboxusercontent.com/s/1k0b37drfcwtgop/331.mp4"
+    }, 
+    {
+      "name_video": "salute",
+      "name_display": "Salute",
+      "type": "dance_shape_uncommon",
+      "link_online": "https://dl.dropboxusercontent.com/s/s474hkyxv8cmkc0/332.mp4"
+    }, 
+    {
+      "name_video": "makeitrain",
+      "name_display": "Make It Rain",
+      "type": "dance_shape_blue",
+      "link_online": "https://dl.dropboxusercontent.com/s/98x27zo658j8tp1/333.mp4"
+    }, 
+    {
+      "name_video": "rocketrodeo",
+      "name_display": "Rocket Rodeo",
+      "type": "dance_shape_epic",
+      "link_online": "https://dl.dropboxusercontent.com/s/pa495f6lw9nupwo/334.mp4"
+    }, 
+    {
+      "name_video": "click",
+      "name_display": "Click",
+      "type": "dance_shape_uncommon",
+      "link_online": "https://dl.dropboxusercontent.com/s/xuy6m84s882g7e4/335.mp4"
+    }, 
+    {
+      "name_video": "rockpaperscissor",
+      "name_display": "Rock Paper Scissor",
+      "type": "dance_shape_uncommon",
+      "link_online": "https://dl.dropboxusercontent.com/s/zrb3eu0de9g8wdw/336.mp4"
+    }, 
+    {
+      "name_video": "flipinsexy",
+      "name_display": "Flippin' Sexy",
+      "type": "dance_shape_blue",
+      "link_online": "https://dl.dropboxusercontent.com/s/f7rihngg2lm8bis/337.mp4"
+    }, 
+    {
+      "name_video": "confusion",
+      "name_display": "Confused",
+      "type": "dance_shape_blue",
+      "link_online": "https://dl.dropboxusercontent.com/s/zszwvr8o5jv6kf8/337.mp4"
+    }, 
+    {
+      "name_video": "brushyourshoulders",
+      "name_display": "Brush Your Shoulders",
+      "type": "dance_shape_uncommon",
+      "link_online": "https://dl.dropboxusercontent.com/s/dhteggkd8e9a6nc/337.mp4"
+    }, 
+    {
+      "name_video": "facepalm",
+      "name_display": "Face Palm",
+      "type": "dance_shape_uncommon",
+      "link_online": "https://dl.dropboxusercontent.com/s/rx9jk4isnbk9k3k/338.mp4"
+    }
+ ]
