@@ -1,1 +1,44 @@
-
+[
+    {
+      "name_video": "wave",
+      "name_display": "Wave",
+      "type": "dance_shape_uncommon",
+      "link_online": "https://dl.dropboxusercontent.com/s/l7b7vxwhvg1gus2/221.mp4"
+    }, 
+    {
+      "name_video": "slowclap",
+      "name_display": "Slow Clap",
+      "type": "dance_shape_uncommon",
+      "link_online": "https://dl.dropboxusercontent.com/s/z7qkxdxqpyi3z0g/222.mp4"
+    }, 
+    {
+      "name_video": "puresalt",
+      "name_display": "Pure Salt",
+      "type": "dance_shape_blue",
+      "link_online": "https://dl.dropboxusercontent.com/s/sn0wfjoa9vcgghj/223.mp4"
+    }, 
+    {
+      "name_video": "kisskiss",
+      "name_display": "Kiss Kiss",
+      "type": "dance_shape_blue",
+      "link_online": "https://dl.dropboxusercontent.com/s/p4fzj1sephj82pg/224.mp4"
+    }, 
+    {
+      "name_video": "dab",
+      "name_display": "Dab",
+      "type": "dance_shape_blue",
+      "link_online": "https://dl.dropboxusercontent.com/s/uu06vaiq4z8zm0o/225.mp4"
+    }, 
+    {
+      "name_video": "gunshow",
+      "name_display": "Gun Show",
+      "type": "dance_shape_uncommon",
+      "link_online": "https://dl.dropboxusercontent.com/s/zxpuwbrw70vrax4/226.mp4"
+    }, 
+    {
+      "name_video": "fingerguns",
+      "name_display": "Finger Guns",
+      "type": "dance_shape_uncommon",
+      "link_online": "https://dl.dropboxusercontent.com/s/l1p77zcfnn3rayx/227.mp4"
+    }
+ ]
