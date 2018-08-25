@@ -1,0 +1,51 @@
+[
+    {
+      "name_video": "dancesmoves",
+      "name_display": "Dance Moves",
+      "type": "dance_shape_common",
+      "link_online": "http://tmm.izimy.net/tmm/vid/dancesmoves.mp4",
+      "ss":1
+    },
+    {
+      "name_video": "breakin",
+      "name_display": "Breakin",
+      "type": "dance_shape_epic",
+      "link_online": "http://tmm.izimy.net/tmm/vid/breakin.mp4",
+      "ss":2
+    }, 
+    {
+      "name_video": "electroshuffle",
+      "name_display": "Electro Shuffle",
+      "type": "dance_shape_epic",
+      "link_online": "http://tmm.izimy.net/tmm/vid/electroshuffle.mp4",
+      "ss":2
+    }, 
+    {
+      "name_video": "floss",
+      "name_display": "Floss",
+      "type": "dance_shape_blue",
+      "link_online": "http://tmm.izimy.net/tmm/vid/floss.mp4",
+      "ss":2
+    }, 
+    {
+      "name_video": "fresh",
+      "name_display": "Fresh",
+      "type": "dance_shape_epic",
+      "link_online": "http://tmm.izimy.net/tmm/vid/fresh.mp4",
+      "ss":2
+    }, 
+    {
+      "name_video": "ridethepony",
+      "name_display": "Ride The Pony",
+      "type": "dance_shape_blue",
+      "link_online": "http://tmm.izimy.net/tmm/vid/ridethepony.mp4",
+      "ss":2
+    }, 
+    {
+      "name_video": "theworm",
+      "name_display": "The Worm",
+      "type": "dance_shape_blue",
+      "link_online": "http://tmm.izimy.net/tmm/vid/theworm.mp4",
+      "ss":2
+    }
+ ]
