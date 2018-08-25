@@ -208,5 +208,40 @@
       "type": "dance_shape_blue",
       "link_online": "http://tmm.izimy.net/tmm/vid/tidy.mp4",
         "ss":4
+    },
+     {
+      "name_video": "breakdown",
+      "name_display": "Breakdown",
+      "type": "dance_shape_epic",
+      "link_online": "http://tmm.izimy.net/tmm/vid/breakdown.mp4",
+      "ss":5
+    },
+     {
+      "name_video": "twist",
+      "name_display": "Twist",
+      "type": "dance_shape_blue",
+      "link_online": "http://tmm.izimy.net/tmm/vid/twist.mp4",
+      "ss":5
+    },
+     {
+      "name_video": "swipeit",
+      "name_display": "Swipe It",
+      "type": "dance_shape_blue",
+      "link_online": "http://tmm.izimy.net/tmm/vid/swipeit.mp4",
+      "ss":5
+    },
+     {
+      "name_video": "hula",
+      "name_display": "Hula",
+      "type": "dance_shape_epic",
+      "link_online": "http://tmm.izimy.net/tmm/vid/hula.mp4",
+      "ss":5
+    },
+     {
+      "name_video": "trueheart",
+      "name_display": "True Heart",
+      "type": "dance_shape_epic",
+      "link_online": "http://tmm.izimy.net/tmm/vid/trueheart.mp4",
+      "ss":5
     }
  ]
