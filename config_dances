@@ -124,5 +124,89 @@
       "type": "dance_shape_blue",
       "link_online": "http://tmm.izimy.net/tmm/vid/squatkick.mp4",
        "ss":3
+    },
+     {
+      "name_video": "kickups",
+      "name_display": "Kick Ups",
+      "type": "dance_shape_blue",
+      "link_online": "http://tmm.izimy.net/tmm/vid/kickups.mp4",
+        "ss":4
+    }, 
+    {
+      "name_video": "poplock",
+      "name_display": "Pop Lock",
+      "type": "dance_shape_epic",
+      "link_online": "http://tmm.izimy.net/tmm/vid/poplock.mp4",
+        "ss":4
+    }, 
+    {
+      "name_video": "reanimated",
+      "name_display": "Rambunctious",
+      "type": "dance_shape_blue",
+      "link_online": "http://tmm.izimy.net/tmm/vid/reanimated.mp4",
+        "ss":4
+    }, 
+    {
+      "name_video": "baller",
+      "name_display": "Baller",
+      "type": "dance_shape_blue",
+      "link_online": "http://tmm.izimy.net/tmm/vid/baller.mp4",
+        "ss":4
+    }, 
+    {
+      "name_video": "zany",
+      "name_display": "Zany",
+      "type": "dance_shape_blue",
+      "link_online": "http://tmm.izimy.net/tmm/vid/zany.mp4",
+        "ss":4
+    }, 
+    {
+      "name_video": "popstar",
+      "name_display": "Star Power",
+      "type": "dance_shape_epic",
+      "link_online": "http://tmm.izimy.net/tmm/vid/popstar.mp4",
+        "ss":4
+    }, 
+    {
+      "name_video": "boneless",
+      "name_display": "Boneless",
+      "type": "dance_shape_blue",
+      "link_online": "http://tmm.izimy.net/tmm/vid/boneless.mp4",
+        "ss":4
+    },
+    {
+      "name_video": "freestyle",
+      "name_display": "Freestylin",
+      "type": "dance_shape_epic",
+      "link_online": "http://tmm.izimy.net/tmm/vid/freestyle.mp4",
+        "ss":4
+    }, 
+    {
+      "name_video": "groovejam",
+      "name_display": "Groove Jam",
+      "type": "dance_shape_epic",
+      "link_online": "http://tmm.izimy.net/tmm/vid/groovejam.mp4",
+        "ss":4
+    }, 
+    {
+      "name_video": "hype",
+      "name_display": "Hype",
+      "type": "dance_shape_blue",
+      "link_online": "http://tmm.izimy.net/tmm/vid/hype.mp4",
+        "ss":4
+    }, 
+    {
+      "name_video": "orangejustice",
+      "name_display": "Orange Justice",
+      "type": "dance_shape_blue",
+      "link_online": "http://tmm.izimy.net/tmm/vid/orangejustice.mp4",
+        "ss":4
+    }, 
+    {
+      "name_video": "tidy",
+      "name_display": "Tidy",
+      "type": "dance_shape_blue",
+      "link_online": "http://tmm.izimy.net/tmm/vid/tidy.mp4",
+        "ss":4
     }
  ]
